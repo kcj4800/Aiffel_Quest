@@ -1,2 +1,5 @@
 GoingDeeperCV_19.ipynb
 GoingDeeperCV_20.ipynb
+**/*.swp
+**/*.swo
+.ipynb_checkpoints
