@@ -31,7 +31,7 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.<br>
 ![image](https://github.com/kcj4800/Aiffel_Quest/assets/130530651/eb34d58b-7312-4759-a4cb-c8175fa17d30) <br>
-simplebaseline과 stackedhourglassnetwork의 추가실험을 수행했다.그리고 다양한 이미지 데이터에 대한 추가실험을 진행하였다. 
+*simplebaseline과 stackedhourglassnetwork의 추가실험을 수행했다.그리고 다양한 이미지 데이터에 대한 추가실험을 진행하였다.* 
         
 - [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
