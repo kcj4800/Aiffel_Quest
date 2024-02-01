@@ -40,7 +40,8 @@
         인풋이 들어가 최종적으로 아웃풋이 나오기까지의 전체 흐름을 도식화하여 
         모델 아키텍쳐에 대한 이해를 돕고 있는지 확인
 ![image](https://github.com/kcj4800/Aiffel_Quest/assets/141803633/f2678392-2711-4e39-9546-312bcd842b5f)
-![image](https://github.com/kcj4800/Aiffel_Quest/assets/141803633/4c576ab6-686f-4cb8-ac96-c2ecd7e53b79)
+![image](https://github.com/kcj4800/Aiffel_Quest/assets/128466813/f591dd24-7bf6-4fbd-8494-d4bb99eeaf1a)
+
 
 
 
